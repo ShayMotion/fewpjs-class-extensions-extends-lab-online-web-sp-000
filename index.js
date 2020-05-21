@@ -8,3 +8,4 @@ get countSides() {
   this.countSides = Polygon.length;
   return this.countSlides.length;
 }
+}
